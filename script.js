@@ -83,3 +83,11 @@ if (leftBtn && rightBtn && productContainer) {
         });
     });
 }
+
+window.addEventListener("load", () => {
+    document.querySelectorAll(".fade").forEach(el => {
+        if (el.getBoundingClientRect().top < window.innerHeight) {
+            el.classList.add("show");
+        }
+    });
+});
