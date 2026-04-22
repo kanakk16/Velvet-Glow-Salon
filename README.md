@@ -31,9 +31,9 @@ JavaScript
 
 ## 📸 Preview
 
-![Homepage]images/home_page.png
-![Services]images/services.png
-![Contact]images/contact.png
+![Homepage](images/home_page.png)
+![Services](images/services.png)
+![Contact](images/contact.png)
 
 ---
 
