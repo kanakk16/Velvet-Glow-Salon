@@ -50,11 +50,11 @@ This project helped me strengthen my understanding of:
 
 ## 📁 Project Structure
 
-Velvet-Glow-Salon/
-│── images/
-│── index.html
-│── style.css
-│── script.js
+Velvet-Glow-Salon/  
+│── images/  
+│── index.html  
+│── style.css  
+│── script.js  
 
 
 ---
