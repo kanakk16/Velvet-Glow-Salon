@@ -1,0 +1,1 @@
+Velvet Glow is a fully responsive salon website built using HTML, CSS, and JavaScript. It features smooth scrolling, interactive UI elements, form validation, and a modern aesthetic design focused on user experience across all devices.
