@@ -1,7 +1,7 @@
 # ✨ Velvet Glow Salon
 
 A modern, responsive salon website designed to deliver a smooth and elegant user experience.  
-Built with a focus on clean UI, subtle animations, and mobile-first responsiveness.
+Built with a focus on clean UI, subtle animations, and mobile-first responsiveness..
 
 ---
 
